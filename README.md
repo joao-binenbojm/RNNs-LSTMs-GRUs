@@ -1,4 +1,4 @@
-#RNNs, LSTMs & GRUs
+# RNNs, LSTMs & GRUs
 
 This task has been based off a coursework I carried out during my MRes. In this notebook, using PyTorch yet without implementing RNN cells directly, I've come up with code implementations for RNNs, LSTMs and GRUs.
 
